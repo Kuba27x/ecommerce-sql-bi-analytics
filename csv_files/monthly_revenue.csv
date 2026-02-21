@@ -1,0 +1,4 @@
+order_month,current_revenue,previous_revenue
+2024-01,7799.00,NULL
+2024-02,5200.00,7799.00
+2024-03,6148.00,5200.00

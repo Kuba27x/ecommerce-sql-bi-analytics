@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,city,registration_date
+1,Jan,Kowalski,Warszawa,2023-11-15
+2,Anna,Nowak,Nieznane,2023-12-01
+3,Piotr,Wisniewski,Krakow,2024-01-10
+4,Maria,Wojcik,Poznan,2024-01-22
+5,Tomasz,Kaczmarek,Warszawa,2024-02-05
